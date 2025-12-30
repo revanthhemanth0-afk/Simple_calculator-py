@@ -1,1 +1,2 @@
 # Simple_calculator-py
+This project is a simple calculator application built using Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program uses functions for better code organization, a loop to allow continuous calculations, and conditional statements to handle user choices. It is designed as a beginner-friendly project to help learners understand core Python concepts like user input, control flow, and function-based programming through a practical, real-world example.
